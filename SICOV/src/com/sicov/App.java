@@ -9,7 +9,7 @@ public final class App {
     private App() {}
     public static void main(String[] args) {
     	
-    	System.out.println("probando cambio para github valentin21/oct");
+    	System.out.println("probando segundo commit para github valentin21/oct");
     	
         SwingUtilities.invokeLater(() -> {
             try {
